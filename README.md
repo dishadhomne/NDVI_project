@@ -1,5 +1,6 @@
 # NDVI_project
 🌿 NDVI-Based Vegetation Analysis Project
+
 🎯 Aim :
 To analyze vegetation in images using a simplified NDVI (Normalized Difference Vegetation Index) technique and estimate green cover using image processing.
 
